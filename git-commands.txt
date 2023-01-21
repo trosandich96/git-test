@@ -1,7 +1,7 @@
 #command line prompts for github
-#git clone *insert SSH link here*
-#git push (or git push origin main)
-#git add .
-#git commit -m
-#git status
-#git log
+git clone *insert SSH link here* - pulls for repository editing
+git push (or git push origin main) - publishes to repository
+git add . - adds current changed files to staging area
+git commit -m - commits changes; add message in parentheses
+git status - shows if there is anything waiting to be committed
+git log - shows history of repository
