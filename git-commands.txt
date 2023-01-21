@@ -1,1 +1,7 @@
-Extra hello world
+#command line prompts for github
+#git clone *insert SSH link here*
+#git push (or git push origin main)
+#git add .
+#git commit -m
+#git status
+#git log
